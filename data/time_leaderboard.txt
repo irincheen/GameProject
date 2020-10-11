@@ -1,0 +1,5 @@
+oks ->> 84.524secs
+irina ->> 20.2229secs
+ana ->> 35.3486secs
+ABii ->> 59.3486secs
+wowFUN ->> 95.3486secs
